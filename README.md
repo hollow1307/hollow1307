@@ -73,12 +73,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/hollow1307/hollow1307/refs/heads/main/bogdan_belous-aerolajf_retest-en%20(2).png)
+[<img src="/bogdan_belous-aerolajf_retest-en%20(2).png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/hollow1307/hollow1307/refs/heads/main/bogdan_belous-aerolajf_retest-en%20(2).png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/hollow1307/hollow1307/refs/heads/main/049ea96c93f%20(2).png)
+[<img src="/049ea96c93f%20(2).png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/hollow1307/hollow1307/refs/heads/main/049ea96c93f%20(2).png)
 
 <br>
 <br>
